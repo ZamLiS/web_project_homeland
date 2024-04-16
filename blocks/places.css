@@ -88,8 +88,9 @@
 
 .place__button {
   grid-area: button;
-  grid-row: -2/3;
-  grid-column-start: 1;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
   max-width: 355px;
   width: 100%;
   height: 48px;
@@ -97,12 +98,7 @@
   background-color: #0278fe;
   border: none;
   color: #fff;
-  margin: auto;
-}
-
-.place__button-position {
-  max-width: 460px;
-  width: 100%;
+  margin: 0;
 }
 
 .place__button:hover {
@@ -113,6 +109,7 @@ a {
   outline: none;
   text-decoration: none;
   color: #fff;
+  margin: auto;
 }
 
 a:active {
