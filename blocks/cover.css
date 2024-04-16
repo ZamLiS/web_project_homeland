@@ -2,6 +2,7 @@
   max-width: 1184px;
   width: 100%;
   height: 740px;
+  max-height: 100%;
   position: relative;
   margin: auto;
   background-color: #2a2c2f;
@@ -54,11 +55,14 @@
 }
 
 .cover__button {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
   z-index: 3;
   max-width: 198px;
   width: 100%;
   font-size: 18px;
-  height: 48px;
+
   border-radius: 4px;
   border: none;
   background-color: #0278fe;
@@ -83,7 +87,6 @@
   color: #fff;
   text-decoration: none;
   max-width: 158px;
-  height: 22px;
 
   cursor: pointer;
 
