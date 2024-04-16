@@ -21,7 +21,7 @@
   margin-top: 90px;
 }
 
-.span__header_position {
+.header__title_position {
   align-self: center;
 }
 
@@ -38,7 +38,7 @@
   margin-top: 32px;
 }
 
-.span__description_position {
+.header__description_position {
   margin: auto;
 }
 
