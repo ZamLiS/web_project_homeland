@@ -1,0 +1,167 @@
+@media screen and (max-width: 500px) {
+  .nav__logo {
+    max-width: 200px;
+    width: 100%;
+    margin: auto;
+    margin-top: 20px;
+  }
+
+  .header__title {
+    max-width: 288px;
+    width: 100%;
+    font-size: 40px;
+    margin: auto;
+    margin-top: 50px;
+  }
+
+  .header__description {
+    max-width: 288px;
+    width: 100%;
+    font-size: 16px;
+    line-height: 20px;
+    margin: auto;
+    margin-top: 60px;
+  }
+
+  .span__description_position {
+    margin-top: 0px;
+    margin: auto;
+  }
+
+  .intro {
+    max-width: 288px;
+    width: 100%;
+    margin-top: 44px;
+  }
+
+  .intro__title {
+    max-width: 288px;
+    width: 100%;
+    margin: auto;
+    font-size: 32px;
+    line-height: 35px;
+  }
+
+  .intro__content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    max-width: 288px;
+    margin: auto;
+    margin-bottom: 92px;
+  }
+
+  .intro__quote {
+    font-size: 24px;
+    line-height: 30px;
+  }
+
+  .intro__paragraph {
+    max-width: 288px;
+    width: 100%;
+    font-size: 1;
+    font-weight: normal;
+    line-height: 1.63;
+    margin: 0;
+  }
+
+  .photo-grid {
+    max-width: 288px;
+    width: 100%;
+    display: block;
+    grid-gap: 12px;
+    margin: auto;
+    margin-bottom: 92px;
+  }
+  .photo-grid__image {
+    max-width: 288px;
+    width: 100%;
+
+    margin: auto;
+  }
+
+  .places {
+    max-width: 320px;
+    width: 100%;
+    margin: auto;
+    margin-bottom: 92px;
+  }
+  .place {
+    max-width: 288px;
+    width: 100%;
+    display: block;
+    margin: auto;
+    margin-bottom: 16px;
+  }
+
+  .place__title {
+    max-width: 288px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    font-size: 32px;
+    line-height: 35px;
+    margin: auto;
+  }
+
+  .place__subtitle {
+    max-width: 288px;
+    width: 100%;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 8px;
+  }
+
+  .place__image {
+    max-width: 320px;
+    width: 100%;
+    margin: auto;
+  }
+
+  .place__paragraph {
+    max-width: 288px;
+
+    font-size: 16px;
+    line-height: 1.63;
+    margin: auto;
+    margin-top: 48px;
+  }
+
+  .place__text {
+    max-width: 288px;
+    width: 100%;
+    margin-bottom: 8px;
+  }
+
+  .place__button {
+    max-width: 288px;
+    width: 100%;
+    margin: auto;
+  }
+
+  .place__button-position {
+    max-width: 288px;
+    width: 100%;
+  }
+
+  .cover__title {
+    z-index: 3;
+    font-size: 32px;
+    font-weight: bold;
+    line-height: 35px;
+    margin: 0;
+  }
+
+  .cover__subtitle {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-self: center;
+    z-index: 3;
+    font-size: 18px;
+    line-height: 22px;
+    max-width: 280px;
+    margin-top: 32px;
+    margin-bottom: 0;
+  }
+}

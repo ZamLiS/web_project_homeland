@@ -1,0 +1,56 @@
+.intro {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  max-width: 1017px;
+  width: 100%;
+  margin: auto;
+  margin-top: 92px;
+}
+
+.intro__title {
+  max-width: 1117px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+
+  font-size: 54px;
+  margin: auto;
+}
+
+.intro__content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  max-width: 1117px;
+  margin: auto;
+  margin-bottom: 92px;
+}
+
+.intro__quote {
+  font-weight: normal;
+  line-height: 1.5;
+  font-size: 24px;
+  position: relative;
+  max-width: 722px;
+  margin-top: 40px;
+}
+
+.intro__quote-cite {
+  font-weight: normal;
+  font-size: 24px;
+  position: absolute;
+  right: 0;
+  bottom: -20;
+  margin: auto;
+}
+
+.intro__paragraph {
+  max-width: 722px;
+  width: 100%;
+  font-size: 1;
+  font-weight: normal;
+  line-height: 1.63;
+  margin: 0;
+}

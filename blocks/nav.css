@@ -1,0 +1,13 @@
+.nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.nav__logo {
+  max-width: 270px;
+  width: 100%;
+  margin: auto;
+  margin-top: 34px;
+}

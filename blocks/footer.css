@@ -1,0 +1,13 @@
+.footer {
+  display: flex;
+  justify-content: center;
+  padding: 92px 0px 24px 0px;
+}
+
+.footer__copyright {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 16px;
+  margin: auto;
+}

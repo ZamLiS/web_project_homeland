@@ -1,0 +1,50 @@
+.header {
+  max-width: 984px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+  margin: auto;
+}
+
+.header__title {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 793px;
+  width: 100%;
+  font-family: "Inter", Arial, sans-serif;
+  font-weight: bold;
+  font-size: 96px;
+  margin: auto;
+  margin-top: 90px;
+}
+
+.span__header_position {
+  align-self: center;
+}
+
+.header__description {
+  display: flex;
+  flex-direction: column;
+  max-width: 720px;
+  width: 100%;
+  font-family: "Inter", Arial, sans-serif;
+  line-height: 1.3;
+  font-size: 30px;
+  font-weight: normal;
+  margin: auto;
+  margin-top: 32px;
+}
+
+.span__description_position {
+  margin: auto;
+}
+
+.header__image {
+  max-width: 1117px;
+  width: 100%;
+  margin: auto;
+  margin-top: 64px;
+}
