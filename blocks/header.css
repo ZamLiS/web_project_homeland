@@ -48,3 +48,34 @@
   margin: auto;
   margin-top: 64px;
 }
+
+@media screen and (max-width: 800px) {
+  .header__description {
+    margin: auto;
+    margin-top: 99px;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .header__title {
+    max-width: 288px;
+    width: 100%;
+    font-size: 40px;
+    margin: auto;
+    margin-top: 50px;
+  }
+
+  .header__description {
+    max-width: 288px;
+    width: 100%;
+    font-size: 16px;
+    line-height: 20px;
+    margin: auto;
+    margin-top: 60px;
+  }
+
+  .span__description_position {
+    margin-top: 0px;
+    margin: auto;
+  }
+}

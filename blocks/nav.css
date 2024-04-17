@@ -11,3 +11,12 @@
   margin: auto;
   margin-top: 34px;
 }
+
+@media screen and (max-width: 500px) {
+  .nav__logo {
+    max-width: 200px;
+    width: 100%;
+    margin: auto;
+    margin-top: 20px;
+  }
+}

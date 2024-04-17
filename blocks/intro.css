@@ -54,3 +54,50 @@
   line-height: 1.63;
   margin: 0;
 }
+
+@media screen and (max-width: 800px) {
+  .intro__title {
+    max-width: 720px;
+    width: 100%;
+    margin: auto;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .intro {
+    max-width: 288px;
+    width: 100%;
+    margin-top: 44px;
+  }
+
+  .intro__title {
+    max-width: 288px;
+    width: 100%;
+    margin: auto;
+    font-size: 32px;
+    line-height: 35px;
+  }
+
+  .intro__content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    max-width: 288px;
+    margin: auto;
+    margin-bottom: 92px;
+  }
+
+  .intro__quote {
+    font-size: 24px;
+    line-height: 30px;
+  }
+
+  .intro__paragraph {
+    max-width: 288px;
+    width: 100%;
+    font-size: 1;
+    font-weight: normal;
+    line-height: 1.63;
+    margin: 0;
+  }
+}

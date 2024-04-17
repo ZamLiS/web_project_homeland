@@ -4,6 +4,8 @@ Este es el cuarto proyecto del programa de ingeniería de software de TripleTen,
 
 En este proyecto se muestran las diferentes ciudades natales de algunos integrantes de la familia TripleTen, ademas de contar con mi ciudad natal, lo desafiante de este proyecto fue la presencia de grid tanto para distribucion de contenido como de imagenes en diferentes secciones del sitio Web, asi como la implementacion de medias queries para hacer posible la correcta visualizacion del sitio en diferentes resoluciones de diferentes dispositivos como computadoras, tablets y smartphones.
 
+Y lo mas emocionante de este proyecto es que pude publicarlo, puedes observar el resultado final aqui:
+
 ## Características del proyecto
 
 - HTML5 semántico
@@ -24,4 +26,4 @@ Este proyecto fue demasiado desafiante para mi, ya que tuve que hacer todo el pr
 
 Otro aspecto que me gustaria mejorar es el manejo de margin y padding para sitios responsivos, asi como la distribucion Grid siento que aun me falta mejorar en esa parte, en cuanto al Grid, intente manipular las columnas y filas para reposicionar el boton y evitar ese espacio notable entre la imagen y el boton en la seccion "places" pero no lo logre, por lo que me gustaria aprender mas sobre eso.
 
-Una cosa que me causo dolor de cabeza fue la conversion de pixeles a unidades de % o fr, por lo que tambien me gustaria aprender mas sobre eso.
+Una cosa que me causo dolor de cabeza fue la conversion de pixeles a unidades de % o fr, por lo que tambien me gustaria aprender acerca sde ello.
