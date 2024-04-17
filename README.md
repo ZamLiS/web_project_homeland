@@ -5,6 +5,7 @@ Este es el cuarto proyecto del programa de ingeniería de software de TripleTen,
 En este proyecto se muestran las diferentes ciudades natales de algunos integrantes de la familia TripleTen, ademas de contar con mi ciudad natal, lo desafiante de este proyecto fue la presencia de grid tanto para distribucion de contenido como de imagenes en diferentes secciones del sitio Web, asi como la implementacion de medias queries para hacer posible la correcta visualizacion del sitio en diferentes resoluciones de diferentes dispositivos como computadoras, tablets y smartphones.
 
 Y lo mas emocionante de este proyecto es que pude publicarlo, puedes observar el resultado final aqui:
+https://zamlis.github.io/web_project_homeland/
 
 ## Características del proyecto
 
